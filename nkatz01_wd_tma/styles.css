@@ -1,0 +1,48 @@
+ body {
+    margin-right: 2em;
+    margin-left: 2em;
+    font-family: Tahoma, arial, sans-serif;
+}
+
+h1 {color: #554000;}
+
+table {
+    table-layout: fixed;
+    margin-bottom: 2.5em; 
+    border-collapse: collapse;
+ 
+ 
+}
+  
+th { 
+background-color: #D4BA6A;
+border-top: solid 2px #333333;
+ }
+
+td {
+    padding: 0.50em;
+    line-height: normal  ;
+    vertical-align: top;
+  
+}
+
+#IngFormat{
+    width: 15em;
+   font-size: 1.2em;
+   line-height: 200%;
+}
+
+.bigCell{
+    width: 20em;
+    text-align: justify;  
+    line-height: 250%;
+    font-weight: 100;
+    font-size: 1.5em;
+   
+}
+
+.thickBorder, .bigCell{
+     border-bottom: solid thick;
+    
+}
+ 

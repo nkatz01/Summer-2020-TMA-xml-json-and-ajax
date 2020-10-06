@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" > 
+ <xs:complexType name="timedActivity">
+     <xs:sequence>
+         <xs:element name="activityTime" type="xs:integer" minOccurs="1"/></xs:sequence> <!--We make this mandatory eventhough some recipes won't need them (eg. Fruit salad: their cooking time 
+     would be 0)  that's because it's a value used for sorting and so we want to preserve this criteria even for the recipes for which it doesn't apply.-->
+    <xs:attribute name="units" type="xs:string" use="required"></xs:attribute>
+ </xs:complexType>
+    
+    
+        <xs:simpleType  name="ratingType">
+            <xs:restriction base="xs:positiveInteger"> 
+                <xs:minInclusive value="1"/>
+                <xs:maxInclusive value="5"/>
+            </xs:restriction>
+        </xs:simpleType>
+        
+    
+    
+     <xs:complexType name="recipeType"> 
+ <xs:sequence>
+     
+<xs:element name="title" type="xs:string"/>
+    
+     
+    
+     
+     <xs:element name="ratingWithAttr" >
+     <xs:complexType >
+         <xs:sequence>
+         <xs:element name="rating" type="ratingType">  </xs:element>                
+         </xs:sequence>
+         <xs:attribute name="howManyRated" type="xs:positiveInteger" use="required"> </xs:attribute>
+     </xs:complexType>  </xs:element>
+     
+     <xs:element name="authorType">
+     <xs:complexType  >
+         <xs:sequence>
+         <xs:element name="author" type="xs:string" />
+         </xs:sequence>  
+         <xs:attribute name="authorLink" type="xs:anyURI" use="required"></xs:attribute>
+     </xs:complexType></xs:element>
+  
+     <xs:element name="preptime" type="timedActivity"/>
+     <xs:element name="cooktime" type="timedActivity" minOccurs="0" /> 
+     <xs:element name="marinatingTime" type="timedActivity" minOccurs="0" />
+     <xs:element name="ExtraTime" type="xs:string" minOccurs="0" />
+     <xs:element name="difficultyLevel">
+         <xs:simpleType>
+             <xs:restriction base="xs:string">
+                 <xs:enumeration value="Easy"/>
+                 <xs:enumeration value="More effort"/>
+                 <xs:enumeration value="Difficult"/>
+             </xs:restriction>
+         </xs:simpleType>
+     </xs:element> 
+ <xs:element name="serves" type="xs:string"/>
+ <xs:element name="description" type="xs:string"/>      
+ <xs:element name="notes" type="xs:string" minOccurs="0" maxOccurs="5"/>
+ <xs:element name="nutritionPerServing" > 
+         <xs:complexType>
+            <xs:sequence>
+                <xs:element name="kcal" type="xs:positiveInteger"></xs:element>
+                
+                <xs:element name="fat">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                            <xs:pattern value="\d+\.*\d*\d*g" />
+                        </xs:restriction>
+                    </xs:simpleType>
+                     </xs:element>
+               
+                <xs:element name="saturates">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                            <xs:pattern value="\d+\.*\d*\d*g" />
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+                <xs:element name="carbs">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                            <xs:pattern value="\d+\.*\d*\d*g" />
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+                <xs:element name="sugars">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                            <xs:pattern value="\d+\.*\d*\d*g" />
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+                <xs:element name="fibre">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                            <xs:pattern value="\d+\.*\d*\d*g" />
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+                <xs:element name="protein">
+                    <xs:simpleType>
+                        <xs:restriction base="xs:string">
+                            <xs:pattern value="\d+\.*\d*\d*g" />
+                        </xs:restriction>
+                    </xs:simpleType>
+                </xs:element>
+                <xs:element name="salt">
+                    <xs:simpleType >
+                        <xs:restriction base="xs:string">
+                            <xs:pattern value="\d+\.\d\d*g" />
+                        </xs:restriction>
+                    </xs:simpleType>   
+                </xs:element>
+                
+                
+            </xs:sequence> 
+             <xs:attribute name="perServing" type="xs:string"></xs:attribute>
+         </xs:complexType>
+ </xs:element>
+     <xs:element name="ingredients" minOccurs="1" maxOccurs="4">
+         <xs:complexType>
+             <xs:sequence>     
+ <xs:element name="ingredient" type="xs:string" minOccurs="1" maxOccurs="20"/>  
+             </xs:sequence>
+             <xs:attribute name="id" type="xs:string" ></xs:attribute>   
+         </xs:complexType>
+     </xs:element>
+     <xs:element name="method">
+         <xs:complexType>
+             <xs:sequence>     
+                 <xs:element name="instruction" type="xs:string" minOccurs="2" maxOccurs="20"/>                   
+             </xs:sequence>         
+         </xs:complexType>
+     </xs:element>
+     <xs:element name="creditType">
+         <xs:complexType  >
+             <xs:sequence>
+                 <xs:element name="credit" type="xs:string" />
+             </xs:sequence>  
+             <xs:attribute name="creditLink" type="xs:anyURI" use="required"></xs:attribute>
+         </xs:complexType></xs:element>
+     
+ </xs:sequence>
+     <xs:attribute name="MagazineSubscrip" type="xs:anyURI" use="required"></xs:attribute>
+         <xs:attribute name="id" type="xs:positiveInteger" use="required"></xs:attribute>
+         
+ </xs:complexType>
+    
+ 
+    <xs:element name="recipes">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="recipe" type="recipeType" minOccurs="1" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+</xs:schema>

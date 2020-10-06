@@ -1,0 +1,610 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?xml-stylesheet type="text/xsl" href="http://titan.dcs.bbk.ac.uk/~nkatz01/WD/WDTMA/recipes.xsl"?>
+<recipes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:noNamespaceSchemaLocation="http://titan.dcs.bbk.ac.uk/~nkatz01/WD/WDTMA/recipes.xsd">    
+    <recipe id="1" MagazineSubscrip="https://www.buysubscriptions.com/print/bbc-good-food-magazine-subscription">
+        <title>One-pan jerk roast chicken</title>
+     
+        <ratingWithAttr howManyRated="3">
+            <rating>4</rating>
+        </ratingWithAttr >
+        <authorType authorLink="https://www.bbcgoodfood.com/chef/cassie-best">
+            <author>By Cassie Best</author>
+        </authorType>
+
+         <preptime units="MINS">
+             <activityTime>30</activityTime>
+            </preptime>
+    <cooktime units="MINS">
+        <activityTime>130</activityTime>
+        </cooktime>
+        <marinatingTime units="MINS">
+            <activityTime>120</activityTime>
+        </marinatingTime>
+        <difficultyLevel>Easy</difficultyLevel>
+    <serves>4 - 6</serves>
+        <description>Add some spice to your Sunday lunch by marinating your bird, then use the juices to create a coconut veggie curry to serve alongside</description>
+        <notes>Freezable</notes>
+        <notes>Gluten-free</notes>
+        <nutritionPerServing>
+        <kcal>651</kcal>
+        <fat>35g</fat>
+        <saturates>16g</saturates>
+        <carbs>37g</carbs>
+        <sugars>15g</sugars>
+        <fibre>8g</fibre>
+        <protein>43g</protein>
+        <salt>0.6g</salt>
+    </nutritionPerServing>
+    <ingredients>
+        <ingredient>1½ kg whole chicken</ingredient>
+        <ingredient>2 red onions, halved, then cut into wedges, leaving the root intact</ingredient>
+        <ingredient>2 red peppers, deseeded and chopped into chunks</ingredient>
+        <ingredient>4 sweet potatoes
+            , peeled and cut into chunks</ingredient>
+        <ingredient>400g can black beans, drained and rinsed</ingredient>
+        <ingredient>400ml coconut milk</ingredient>
+        <ingredient>cooked rice
+            , to serve</ingredient>
+        <ingredient>flatbreads, to serve</ingredient>
+    </ingredients>
+     <ingredients id="">
+         <ingredient>1 red onion, chopped into large chunks</ingredient>
+         <ingredient>5 garlic cloves, peeled</ingredient>
+         <ingredient>1 scotch bonnet chilli, deseeded</ingredient>
+         <ingredient>3 fat green chillies, deseeded</ingredient>
+         <ingredient>bunch coriander, stalks roughly chopped, and leaves reserved, to serve</ingredient>
+         <ingredient>large bunch thyme
+             , leaves picked</ingredient>
+         <ingredient>zest and juice 2 limes
+             (save the juiced halves for the chicken)</ingredient>
+         <ingredient>1 tbsp honey</ingredient>
+         <ingredient>2 tbsp olive or rapeseed oil
+             , plus a drizzle</ingredient>
+         <ingredient>½ nutmeg
+             , grated</ingredient>
+         <ingredient>1 tsp ground allspice</ingredient>
+    </ingredients>
+    <method>
+        <instruction>First make the jerk paste. Put all the ingredients in a food processor, add a good pinch of salt and blend to a fine purée, adding a splash of water if the mixture is struggling to break down. Tie the legs together if you like, and put in a large flameproof roasting tin. Pour over the jerk paste and rub all over and inside the chicken. Stuff the cavity with the juiced lime halves and cover the tray with foil. Chill for up to 48 hrs or a minimum of 2 hrs.</instruction>
+        <instruction>Heat oven to 200C/180C fan/gas 6. Cook the chicken for 45 mins.</instruction>
+        <instruction>Take the chicken out the oven, remove the foil and carefully lift it onto a plate, pouring any juice from the cavity into the tin. Tip the onions, peppers and sweet potatoes into the tin, and season well, then toss in the tray to coat in any residual jerk paste. Put the chicken on top of the veggies and drizzle it with a little oil. Lower the oven to 180C/160C fan/gas 4 and return the roasting tin to the middle shelf, uncovered. Roast for a further 45 mins or until the vegetables are soft and the chicken is cooked through – if you have a meat thermometer, check that the temperature has reached 75C. Carefully remove the chicken from the tin, place on a plate and wrap in foil, then leave to rest.</instruction>
+        <instruction>Place the roasting tin on the hob over a medium heat. Stir in the beans and coconut milk, scraping the bottom of the tin to lift off any tasty bits. Simmer until the sauce has thickened a little, then season to taste. If the sauce looks oily, skim the fat off the surface with a spoon. Put the chicken back in the pan and scatter over the coriander leaves before taking to the table. Serve with rice and flatbreads for mopping up the sauce.</instruction>
+    </method>
+        <creditType creditLink="https://www.bbcgoodfood.com/search/recipes/date/1427842800">
+        <credit>Recipe from Good Food magazine, April 2015</credit>
+    </creditType>
+    </recipe>
+    
+    
+    <recipe id="2" MagazineSubscrip="https://www.buysubscriptions.com/print/bbc-good-food-magazine-subscription">
+        <title>Roast sirloin of beef</title>
+        <ratingWithAttr howManyRated="11">
+            <rating>5</rating>
+        </ratingWithAttr >
+        <authorType authorLink="https://www.bbcgoodfood.com/chef/gary-rhodes">
+            <author>By Gary Rhodes</author>
+        </authorType>
+        <preptime units="MINS">
+            <activityTime>10</activityTime>
+        </preptime>
+        <cooktime units="MINS">
+            <activityTime>150</activityTime>
+        </cooktime>
+        <ExtraTime>Plus some time</ExtraTime>
+        <difficultyLevel>Easy</difficultyLevel>
+        <serves>6</serves>
+        <description>Gary Rhodes' delicious, succulent roast beef dish is perfect for Boxing Day lunch or an alternative Christmas Day roast. Just four ingredients</description>
+        
+        <nutritionPerServing>
+            <kcal>331</kcal>
+            <fat>19g</fat>
+            <saturates>8g</saturates>
+            <carbs>1g</carbs>
+            <sugars>0g</sugars>
+            <fibre>0g</fibre>
+            <protein>36g</protein>
+            <salt>1.47g</salt>
+        </nutritionPerServing>
+        <ingredients>
+            <ingredient>2 tbsp vegetable oil or beef fat</ingredient>
+            <ingredient>1-1½kg/2lb 4-3lb 5oz sirloin of beef
+                joint</ingredient>
+            <ingredient>1 glass red wine</ingredient>
+            <ingredient>400g can beef
+                consommé</ingredient> 
+        </ingredients>
+        <method>
+            <instruction>Heat oven to 200C/fan 180C/gas 6. Heat the oil or fat in a large fl ameproof roasting tin in the oven for 5-10 mins. Season the beef all over.</instruction>
+            <instruction>Place the joint fat-side down in the roasting tin and put it on the hob. Sizzle to release some of the fat, then turn the beef in the fat to seal and colour it all over, about 5 mins. The joint can now be roasted, fat-side up, allowing 10-15 mins per 450g for medium-rare, 15-20 mins per 450g for medium, 20-25 mins for medium-well and 25-30 mins for well done. Turn the joint halfway through its cooking time for an even roast. Once roasted, remove the beef from the pan and leave to one side, loosely covered with foil, to rest for 15-20 mins.</instruction>
+            <instruction>Meanwhile, pour off any excess fat from the roasting tin, then put the tin on a medium heat on top of the stove. Once it begins to sizzle, pour in the red wine, allowing it to boil rapidly until almost completely evaporated. Tip in the consommé and allow to simmer for 4-5 mins. This will give a light sauce, rather than a gravy (see tip, below). Simmer for a few more mins before straining through a sieve for the smoothest of fi nishes. Carve the beef into thick slices, offering the gravy separately.</instruction>
+             
+        </method>
+        <creditType creditLink="https://www.bbcgoodfood.com/search/recipes/date/1133395200">
+            <credit>Recipe from Good Food magazine, December 2005</credit>
+        </creditType>
+    </recipe>
+    
+    <recipe id="3" MagazineSubscrip="https://www.buysubscriptions.com/print/bbc-good-food-magazine-subscription">
+        <title>Gooseberry crème brûlée tart</title>
+        <ratingWithAttr howManyRated="5">
+            <rating>5</rating>
+        </ratingWithAttr >
+        <authorType authorLink="https://www.bbcgoodfood.com/chef/barney-desmazery">
+            <author>By Barney Desmazery</author>
+        </authorType>
+        <preptime units="MINS">
+            <activityTime>10</activityTime>
+        </preptime>
+        <cooktime units="MINS">
+            <activityTime>80</activityTime>
+        </cooktime>
+         
+        <difficultyLevel>More effort</difficultyLevel>
+        <serves>8</serves>
+        <description>Seasonal berries and sweet pastry make a stunning dessert for a dinner party - blowtorch for a beautifully crisp cracked sugar topping</description>
+        
+        <nutritionPerServing>
+            <kcal>467</kcal>
+            <fat>21g</fat>
+            <saturates>11g</saturates>
+            <carbs>60g</carbs>
+            <sugars>39g</sugars>
+            <fibre>3g</fibre>
+            <protein>7g</protein>
+            <salt>0.4g</salt>
+        </nutritionPerServing>
+        <ingredients>
+            <ingredient>450g gooseberries</ingredient>
+            <ingredient>200g white caster sugar</ingredient>
+            <ingredient>4 eggs</ingredient>
+            <ingredient>100ml double cream</ingredient> 
+            <ingredient>500g block sweet pastry</ingredient>
+            <ingredient>flour, for dusting</ingredient>
+        </ingredients>
+        <method>
+            <instruction>Tip the gooseberries into a saucepan with 100g of the sugar and 100ml water. Simmer for 8-10 mins until the fruit is soft and the juices are syrupy. Tip the fruit into a sieve set over a jug and leave to strain – you will need about 150ml of the syrupy juices. Tip the pulp into a bowl and leave to cool.</instruction>
+            <instruction>In a separate bowl, beat the eggs with 50g of the sugar, then beat in the cream and gooseberry syrup. Strain through a sieve into another jug and set aside.</instruction>
+            <instruction>Heat oven to 160C/140C fan/gas 3. Roll out the pastry on a lightly floured surface to the thickness of a £1 coin, then lift into a 23cm tart tin. Press down gently on the bottom and sides, leaving a slight overhang. Line the tart with foil and fill with baking beans. Bake for 10 mins, then discard the foil and beans, and bake for another 20 mins. Remove from the oven and leave to cool.</instruction>
+            <instruction>Reduce oven to 150C/130C fan/gas 2. Spread the pulp evenly over the base of the tart, then carefully pour the cream mixture over it to create 2 layers. Bake for 35-40 mins until the cream layer has the slightest wobble to it. Remove from the oven and trim the pastry edges. Leave to cool completely, then scatter over the remaining sugar, caramelise with a blowtorch, if you like, and serve straight away.</instruction>
+        </method>
+        <creditType creditLink="https://www.bbcgoodfood.com/search/recipes/date/1435705200">
+            <credit>Recipe from Good Food magazine, July 2015</credit>
+        </creditType>
+    </recipe>
+    
+    <recipe id="4" MagazineSubscrip="https://www.buysubscriptions.com/print/bbc-good-food-magazine-subscription">
+        <title>Chinese chicken with pancakes</title>
+        <ratingWithAttr howManyRated="7">
+            <rating>5</rating>
+        </ratingWithAttr >
+        <authorType authorLink="https://www.bbcgoodfood.com/chef/katy-greenwood">
+            <author>By Katy Greenwood</author>
+        </authorType>
+        <preptime units="MINS">
+            <activityTime>15</activityTime>
+        </preptime>
+        <cooktime units="MINS">
+            <activityTime>50</activityTime>
+        </cooktime>
+        
+        <difficultyLevel>Easy</difficultyLevel>
+        <serves>4</serves>
+        <description>A twist on a favourite takeaway using chicken instead of duck, this dish is perfect for a Friday night in</description>
+        <notes>chicken only</notes>
+        <nutritionPerServing>
+            <kcal>461</kcal>
+            <fat>18g</fat>
+            <saturates>4g</saturates>
+            <carbs>42g</carbs>
+            <sugars>12g</sugars>
+            <fibre>3g</fibre>
+            <protein>30g</protein>
+            <salt>1.2g</salt>
+        </nutritionPerServing>
+        <ingredients>
+            <ingredient>5 tbsp hoisin sauce, plus extra to serve</ingredient>
+            <ingredient>2 tbsp plum sauce</ingredient>
+            <ingredient>1 tbsp honey</ingredient>
+            <ingredient>1 tbsp rice vinegar</ingredient> 
+            <ingredient>8 chicken thighs, skin on</ingredient>
+            <ingredient>20 Chinese pancakes (available from Waitrose, Asian supermarkets or Chinese takeaways)</ingredient>
+            <ingredient>1 cucumber, cut into quarters lengthways, then into matchsticks</ingredient>
+            <ingredient>bunch spring onions, cut in half lengthways, then into matchsticks</ingredient>
+        </ingredients>
+        <method>
+            <instruction>Heat oven to 200C/180C fan/ gas 6. Mix the hoisin, plum sauce, honey and rice vinegar, then season with a little salt. Arrange the chicken in a roasting tin and brush over half the sauce. Roast for 25 mins, then spread over the remaining sauce and roast for another 25 mins.</instruction>
+            <instruction>Once the chicken is cooked, steam the pancakes following pack instructions. Shred the chicken, then drizzle over the pan juices and serve with the pancakes, cucumber, spring onions and extra hoisin sauce to spread over.</instruction>
+             </method>
+        <creditType creditLink="https://www.bbcgoodfood.com/search/recipes/date/1472684400">
+            <credit>Recipe from Good Food magazine, September 2016</credit>
+        </creditType>
+    </recipe>
+    
+    <recipe id="5" MagazineSubscrip="https://www.buysubscriptions.com/print/bbc-good-food-magazine-subscription">
+        <title>Vegan burger</title>
+        <ratingWithAttr howManyRated="5">
+            <rating>4</rating>
+        </ratingWithAttr >
+        <authorType authorLink="https://www.bbcgoodfood.com/chef/lulu-grimes">
+            <author>By Lulu Grimes</author>
+        </authorType>
+        <preptime units="MINS">
+            <activityTime>10</activityTime>
+        </preptime>
+        <cooktime units="MINS">
+            <activityTime>10</activityTime>
+        </cooktime>
+        <ExtraTime>plus drying time</ExtraTime>
+        <difficultyLevel>Easy</difficultyLevel>
+        <serves>4</serves>
+        <description>Make this fantastic base recipe for a vegan burger and add whatever you fancy – chilli flakes, grated lemon zest or other herbs all work really well</description>
+       
+        <notes>Healthy</notes>
+        <notes>Dairy-free</notes>
+        <notes>Vegetarian</notes>
+        <notes>Egg-free</notes>
+        <notes>Vegan</notes>
+        <nutritionPerServing>
+            <kcal>190</kcal>
+            <fat>8g</fat>
+            <saturates>1g</saturates>
+            <carbs>21g</carbs>
+            <sugars>1g</sugars>
+            <fibre>5g</fibre>
+            <protein>6g</protein>
+            <salt>0.04g</salt>
+        </nutritionPerServing>
+        <ingredients>
+            <ingredient>1 shallot
+                or ½ onion, chopped</ingredient>
+            <ingredient>1 stick of celery
+                , or ¼ red pepper, chopped</ingredient>
+            <ingredient>handful of parsley leaves</ingredient>
+            <ingredient>400g can chickpeas, drained and left to dry a little</ingredient> 
+            <ingredient>1-2 tsp garam masala</ingredient>
+            <ingredient>1 tbsp tomato purée</ingredient>
+            <ingredient>2 tbsp plain flour</ingredient>
+            <ingredient>1 tbsp polenta
+                , couscous, or dried breadcrumbs</ingredient>
+            <ingredient>oil, for frying</ingredient>
+            <ingredient>burger buns or pitta bread, lettuce, tomato, and sauces to serve</ingredient>
+        </ingredients>
+        <method>
+            <instruction>Whizz the shallot, celery, parsley and most of the chickpeas to a coarse paste. Don’t overdo this, you want a texture slightly rougher than hummus. Mash the remaining chickpeas and stir them into the paste with the garam masala, tomato purée, flour and polenta. Season well. </instruction>
+            <instruction>Shape the mixture into four patties. Let them rest for at least 30 mins – you can leave them overnight in the fridge if you like. The polenta needs time to absorb any extra liquid.</instruction>
+            <instruction>Heat a little oil in a non-stick frying pan and cook the patties until they’re brown and crisp on each side. Try not to handle them too much as they’ll be quite soft when warm. Slide into buns or pitta with the accompaniments that you’d like.</instruction>
+        </method>
+        <creditType creditLink="https://www.bbcgoodfood.com/search/recipes/date/1588287600">
+            <credit>Recipe from bbcgoodfood.com, May 2020</credit>
+        </creditType>
+    </recipe>
+    
+    <recipe id="6" MagazineSubscrip="https://www.buysubscriptions.com/print/bbc-good-food-magazine-subscription">
+        <title>Fruit salad</title>
+        <ratingWithAttr howManyRated="2">
+            <rating>5</rating>
+        </ratingWithAttr >
+        <authorType authorLink="https://www.bbcgoodfood.com/chef/cassie-best">
+            <author>By Cassie Best</author>
+        </authorType>
+        <preptime units="MINS">
+            <activityTime>15</activityTime>
+        </preptime>
+       <cooktime units="MIN">
+           <activityTime>0</activityTime>
+       </cooktime>
+        <difficultyLevel>Easy</difficultyLevel>
+        <serves>6 - 8</serves>
+        <description>Look for ripe, sweet-smelling fruit for this simple fruit salad with kiwi, mango, pineapple, grapes, orange and berries. It’s a lovely, light summer dessert</description>
+        <notes>Dairy-free</notes>
+        <notes>Egg-free</notes>
+        <notes>Gluten-free</notes>
+        <notes>Vegetarian</notes>
+        <notes>Vegan</notes>
+        <nutritionPerServing>
+            <kcal>72</kcal>
+            <fat>0.5g</fat>
+            <saturates>0g</saturates>
+            <carbs>14g</carbs>
+            <sugars>14g</sugars>
+            <fibre>3g</fibre>
+            <protein>1g</protein>
+            <salt>0.01g</salt>
+        </nutritionPerServing>
+        <ingredients>
+            <ingredient>2 kiwi</ingredient>
+            <ingredient>1 mango</ingredient>
+            <ingredient>150g pineapple</ingredient>
+            <ingredient>100g grapes</ingredient> 
+            <ingredient>400g mixed berries, we used strawberries, raspberries and blackberries</ingredient>
+            <ingredient>1 large orange</ingredient>
+            <ingredient>2 tsp honey
+                (optional)</ingredient> 
+        </ingredients>
+        <method>
+            <instruction>Prepare the fruit with a small serrated knife. Cut the top and bottom off the kiwi, stand it up on one of its flat surfaces and cut away the skin, keeping the knife as close to the skin as possible. Slice in half, following the core through the centre, then cut each half into slices. Put in a bowl and repeat with the other kiwi. </instruction>
+            <instruction>Carefully cut the skin off the mango and slice off each cheek, running your knife as close to the stone as you can. Cut each piece into slices. Remove any remaining fruit from the stone in long thin slices. Add the mango to the kiwi. </instruction>
+            <instruction>Top and tail the pineapple, then in a similar way to the kiwi, cut away the skin. Use your knife to go around the pineapple, taking out the divets or eyes, two to three at a time, you’ll be left with a spiral pattern weaving around the outside of the fruit. Take of a circular slice, roughly 150g, quarter, remove the core then cut into chunks. Add to the bowl.</instruction>
+            <instruction>Halve the grapes and add to the rest of the fruit along with the berries, you may want to slice or halve strawberries if they’re large. Remove the peel from the orange using the same method as the kiwi and pineapple. Holding the orange over the bowl of fruit, remove the orange segments by carefully cutting between the membrane and the fruit. The pieces should fall out into the bowl along with any juice. Squeeze the membrane over the fruit to extract the juice, add a drizzle of honey, if you like. Mix everything together and leave in the fridge to macerate for 30 mins, if you have time. </instruction>
+        </method>
+        <creditType creditLink="https://www.bbcgoodfood.com/search/recipes/date/1588287600">
+            <credit>Recipe from bbcgoodfood.com, May 2020</credit>
+        </creditType>
+    </recipe>
+    
+    <recipe id="7" MagazineSubscrip="https://www.buysubscriptions.com/print/bbc-good-food-magazine-subscription">
+        <title>Strawberry ice cream</title>
+        <ratingWithAttr howManyRated="2">
+            <rating>5</rating>
+        </ratingWithAttr >
+        <authorType authorLink="https://www.bbcgoodfood.com/chef/cassie-best">
+            <author>By Cassie Best</author>
+        </authorType>
+        <preptime units="MINS">
+            <activityTime>10</activityTime>
+        </preptime>
+        <cooktime units="MINS">
+            <activityTime>20</activityTime>
+        </cooktime>
+        <ExtraTime>plus freezing</ExtraTime>
+        <difficultyLevel>Easy</difficultyLevel>
+        <serves>8</serves>
+        <description>Use sweet strawberries whilst they’re in season to make this fabulous homemade strawberry ice cream. It's perfect on its own or as an accompaniment summer desserts</description>
+        <notes>Freezable</notes>
+        <notes>Gluten-free</notes>
+        <notes>Nut-free</notes>
+        <notes>Vegetarian</notes>
+        <nutritionPerServing>
+            <kcal>532</kcal>
+            <fat>45g</fat>
+            <saturates>27g</saturates>
+            <carbs>25g</carbs>
+            <sugars>25g</sugars>
+            <fibre>2g</fibre>
+            <protein>5g</protein>
+            <salt>0.1g</salt>
+        </nutritionPerServing>
+        <ingredients>
+            <ingredient>400g strawberries
+                , stalks removed</ingredient>
+            <ingredient>1-2 tsp lemon juice</ingredient>
+            <ingredient>600ml double cream</ingredient>
+            <ingredient>300ml whole milk</ingredient> 
+            <ingredient>150g white caster sugar</ingredient>
+            <ingredient>5 egg yolks</ingredient>
+            <ingredient>2 tsp vanilla extract</ingredient> 
+        </ingredients>
+        <method>
+            <instruction>Put the strawberries in a food processor or blender. Whizz to a purée, then add the lemon juice to taste – if the strawberries are quite tart you’ll only need a little.</instruction>
+            <instruction>Warm the cream and milk in a pan until just steaming, not boiling. Whisk the sugar and egg yolks in a bowl for a minute or two until pale yellow. Slowly pour the hot cream mixture into the eggs, whisking as you do. Once fully incorporated, strain through a sieve back into the pan. Gently cook over a low-medium heat until it thickens slightly – it should coat the back of your spoon and leave a channel if you run your finger through it (this will happen at about 82-85C). Be careful not to overcook it as the eggs will scramble. Transfer to a bowl. Cover and cool for 10 mins, then chill for 1 hr. </instruction>
+            <instruction>Stir the strawberry purée and vanilla through the cold custard. Taste to see if it needs a little more lemon or vanilla.</instruction>
+            <instruction>Freeze the ice cream in an ice cream maker, or container in the freezer. If you don’t have an ice cream maker, freeze for 4 hrs, whisking vigorously or blending in a food processor every hour to remove any ice crystals. Will keep in the freezer for up to two months. </instruction>
+        </method>
+        <creditType creditLink="https://www.bbcgoodfood.com/search/recipes/date/1588287600">
+            <credit>Recipe from bbcgoodfood.com, May 2020</credit>
+        </creditType>
+    </recipe>
+    
+    <recipe id="8" MagazineSubscrip="https://www.buysubscriptions.com/print/bbc-good-food-magazine-subscription">
+        <title>Chocolate ganache drip cake</title>
+        <ratingWithAttr howManyRated="5">
+            <rating>4</rating>
+        </ratingWithAttr >
+        <authorType authorLink="https://www.bbcgoodfood.com/chef/liberty-mendez">
+            <author>By Liberty Mendez</author>
+        </authorType>
+        <preptime units="MINS">
+            <activityTime>80</activityTime>
+        </preptime>
+        <cooktime units="MINS">
+            <activityTime>35</activityTime>
+        </cooktime>
+        <ExtraTime>plus chilling</ExtraTime>
+        <difficultyLevel>More effort</difficultyLevel>
+        <serves>12 - 14</serves>
+        <description>Make this impressive chocolate ganache drip cake with Swiss meringue buttercream for a special occasion. This indulgent sponge is perfect for a celebration</description>
+        <notes>Vegetarian</notes>
+        <nutritionPerServing perServing="14">
+            <kcal>699</kcal>
+            <fat>46g</fat>
+            <saturates>28g</saturates>
+            <carbs>63g</carbs>
+            <sugars>44g</sugars>
+            <fibre>1g</fibre>
+            <protein>8g</protein>
+            <salt>0.9g</salt>
+        </nutritionPerServing>
+        <ingredients id="For the sponge">
+            <ingredient>340g butter, softened, plus extra for the tins</ingredient>
+            <ingredient>340g caster sugar</ingredient>
+            <ingredient>6 large eggs</ingredient>
+            <ingredient>1 tsp vanilla extract</ingredient> 
+            <ingredient>340g self-raising flour</ingredient>
+            <ingredient>1 tsp baking powder</ingredient>
+            <ingredient>2 tbsp milk</ingredient> 
+        </ingredients>
+        <ingredients id="For the Swiss meringue buttercream">
+            <ingredient>3 large egg whites</ingredient>
+            <ingredient>225g caster sugar</ingredient>
+            <ingredient>300g unsalted butter, cubed and softened</ingredient>
+            <ingredient>1 tsp vanilla extract</ingredient>
+        </ingredients>
+        <ingredients id="For the ganache drip">
+            <ingredient>100g dark chocolate
+                , finely chopped</ingredient>
+            <ingredient>75ml double cream</ingredient>
+            <ingredient>edible flowers, glitter or chocolate, to decorate (optional)</ingredient>
+        </ingredients>
+        <method>
+            <instruction>Butter three 20cm round cake tins and line with non-stick baking paper. Heat the oven to 190C/170C fan/gas 5. Beat the butter and sugar together in a large bowl until light and smooth. Gradually beat in the eggs until combined, then mix in the vanilla. Fold in the flour and baking powder until everything is combined. Stir in the milk to loosen. </instruction>
+            <instruction>Bake the sponges for 20 mins until golden and a skewer inserted into the centre comes out clean. Leave to cool in the tins for 10 mins, then transfer onto a wire rack to cool completely.</instruction>
+            <instruction>Meanwhile, make the Swiss meringue buttercream. Put the egg whites and sugar into a heatproof bowl over a small pan of gently simmering water. Make sure the bowl doesn’t touch the water. Whisk for 3-4 mins until the sugar dissolves. Put into an electric mixer and whisk for 10 mins over a medium-high speed until you have a thick meringue. </instruction>
+            <instruction>Gradually add the butter into the meringue mixture for 5 mins until incorporated and the buttercream is fluffy.</instruction>
+            <instruction>Put one sponge onto a plate or cake stand, top it with a few tablespoons of the buttercream and spread into an even layer. Add the next sponge, and repeat. Top with the final sponge. </instruction>
+            <instruction>Smooth a thin layer of the buttercream around the cake, so all the sides are coated – this is called a crumb coat. Chill in the fridge for 45 mins. Remove and smooth a thick layer of the remaining buttercream around the cake using a palette knife, reserving a little for decoration. Put back in the fridge for 45 mins-1 hr to set.</instruction>
+            <instruction>Meanwhile, make the ganache. Put the dark chocolate in a bowl and heat the cream in a small pan until just steaming. Pour the cream over the chocolate and leave to melt for 5-10 mins. Stir to make a glossy ganache, then set aside to firm up a little – you want it to be pourable but not too runny. Spoon the ganache over the top edge of the cake, encouraging it to drizzle down the side with your spoon – start at the back of the cake to get the hang of it. Fill in the middle of the top of the cake with chocolate too. Leave to set for 10 mins.</instruction>
+            <instruction>To decorate, put the leftover buttercream in a piping bag with a round nozzle and pipe little dots on top of the cake. Decorate as you like, remove any flowers before eating.</instruction>
+        </method>
+        <creditType creditLink="https://www.bbcgoodfood.com/search/recipes/date/1590966000">
+            <credit>Recipe from bbcgoodfood.com, June 2020</credit>
+        </creditType>
+    </recipe>
+    
+    <recipe id="9" MagazineSubscrip="https://www.buysubscriptions.com/print/bbc-good-food-magazine-subscription">
+        <title>Beef &amp; vegetable casserole</title>
+        
+        <ratingWithAttr howManyRated="414">
+            <rating>5</rating>
+        </ratingWithAttr >
+        <authorType authorLink="https://www.bbcgoodfood.com/chef/sarah-cook">
+            <author>By Sarah Cook</author>
+        </authorType>
+        
+        <preptime units="MINS">
+            <activityTime>15</activityTime>
+        </preptime>
+        <cooktime units="MINS">
+            <activityTime>230</activityTime>
+        </cooktime>
+        <difficultyLevel>Easy</difficultyLevel>
+        <serves>5</serves>
+        <description>A traditional braised beef stew with thick, rich gravy – an ideal recipe for cheap cuts as slow-cooking guarantees a tender dish</description>
+        <notes>Freezable</notes>
+        <nutritionPerServing>
+            <kcal>483</kcal>
+            <fat>32.6g</fat>
+            <saturates>13.4g</saturates>
+            <carbs>14.3g</carbs>
+            <sugars>7.4g</sugars>
+            <fibre>2.3g</fibre>
+            <protein>33.7g</protein>
+            <salt>1.6g</salt>
+        </nutritionPerServing>
+        <ingredients>
+            <ingredient>2 celery
+                sticks, thickly sliced</ingredient>
+            <ingredient>1 onion
+                , chopped</ingredient>
+            <ingredient>2 really big carrots
+                , halved lengthways then very chunkily sliced</ingredient>
+            <ingredient>5 bay leaves</ingredient>
+            <ingredient>2 thyme
+                sprigs, 1 whole and 1 leaves picked</ingredient>
+            <ingredient>1 tbsp vegetable oil</ingredient>
+            <ingredient>1 tbsp butter</ingredient>
+            <ingredient>2 tbsp plain flour</ingredient>
+            <ingredient>2 tbsp tomato purée</ingredient>
+            <ingredient>2 tbsp Worcestershire sauce</ingredient>
+            <ingredient>2 beef stock cubes, crumbled</ingredient>
+            <ingredient>850g stewing beef (featherblade or brisket works nicely), cut into nice large chunks</ingredient>
+        </ingredients>
+     
+        <method>
+            <instruction>Heat oven to 160C/140C fan/gas 3 and put the kettle on.</instruction>
+            <instruction>Put 2 thickly sliced celery sticks, 1 chopped onion, 2 chunkily sliced carrots, 5 bay leaves and 1 whole thyme sprig in a flameproof casserole dish with 1 tbsp vegetable oil and 1 tbsp butter.</instruction>
+            <instruction>Soften for 10 mins, then stir in 2 tbsp plain flour until it doesn’t look dusty anymore, followed by 2 tbsp tomato purée, 2 tbsp Worcestershire sauce and 2 crumbled beef stock cubes.</instruction>
+            <instruction>Gradually stir in 600ml hot water, then tip in 850g stewing beef and bring to a gentle simmer.</instruction>
+            <instruction>Cover and put in the oven for 2hrs 30 mins, then uncover and cook for 30mins – 1hr more until the meat is really tender and the sauce is thickened.</instruction>
+            <instruction>Garnish with the picked leaves of the remaining thyme sprig.</instruction>
+        </method>
+        <creditType creditLink="https://www.bbcgoodfood.com/search/recipes/date/1325376000">
+            <credit>Recipe from bbcgoodfood.com, January 2012</credit>
+        </creditType>
+    </recipe>
+    
+    <recipe id="10" MagazineSubscrip="https://www.buysubscriptions.com/print/bbc-good-food-magazine-subscription">
+        <title>Lasagne</title>
+        
+        <ratingWithAttr howManyRated="187">
+            <rating>5</rating>
+        </ratingWithAttr >
+        <authorType authorLink="https://www.bbcgoodfood.com/chef/sarah-cook">
+            <author>By Sarah Cook</author>
+        </authorType>
+        
+        <preptime units="MINS">
+            <activityTime>60</activityTime>
+        </preptime>
+        <cooktime units="MINS">
+            <activityTime>190</activityTime>
+        </cooktime>
+        <ExtraTime>Plus milk infusing</ExtraTime>
+        <difficultyLevel>Easy</difficultyLevel>
+        <serves>8</serves>
+        <description>Little is more satisfying than cooking a classic to perfection - Sarah Cook gives us a lesson in how to make lasagne</description>
+        <notes>Freezable</notes>
+        <nutritionPerServing>
+            <kcal>794</kcal>
+            <fat>38g</fat>
+            <saturates>17g</saturates>
+            <carbs>63g</carbs>
+            <sugars>16g</sugars>
+            <fibre>4g</fibre>
+            <protein>48g</protein>
+            <salt>2.74g</salt>
+        </nutritionPerServing>
+        <ingredients id="For the meat sauce">
+            <ingredient>3 tbsp olive oil</ingredient>
+            <ingredient>2 celery
+                sticks, finely chopped</ingredient>
+            <ingredient>1 onion
+                , finely chopped</ingredient>
+            <ingredient>1 carrot
+                (about 100g/4oz) finely chopped</ingredient>
+            <ingredient>3 garlic cloves, crushed</ingredient>
+            <ingredient>140g pack cubetti di pancetta</ingredient>
+            <ingredient>500g pack beef
+                mince (we used 10% fat)</ingredient>
+            <ingredient>500g pack pork mince or British veal mince</ingredient>
+            <ingredient>200ml milk</ingredient>
+            <ingredient>2 x 400g cans chopped tomatoes</ingredient>
+            <ingredient>2 bay leaves</ingredient>
+            <ingredient>1 rosemary
+                sprig</ingredient>
+            <ingredient>2 thyme
+                sprigs</ingredient>
+            <ingredient>2 tsp dried oregano</ingredient>
+            <ingredient>2 beef stock cubes</ingredient>
+            <ingredient>500ml red wine</ingredient>
+        </ingredients>
+        <ingredients id="For the lasagne">
+            <ingredient>about 400g dried pasta
+                sheets</ingredient>
+            <ingredient>50g parmesan
+                , finely grated</ingredient>
+        </ingredients>
+        <ingredients id="For the white sauce (béchamel)">
+            <ingredient>1½ l milk</ingredient>
+            <ingredient>1 onion
+                , thickly sliced</ingredient>
+            <ingredient>3 bay leaves</ingredient>
+            <ingredient>3 cloves</ingredient>
+            <ingredient>100g butter</ingredient>
+            <ingredient>100g plain flour</ingredient>
+            <ingredient>good grating of nutmeg</ingredient>
+        </ingredients>
+        
+        <method>
+            <instruction>First infuse the milk to make the béchamel sauce. Put the 1 ½ litres milk, 1 thickly sliced onion, 3 bay leaves and 3 cloves into a large saucepan and bring very gently just up to the boil. Turn off the heat and set aside for 1 hr to infuse.</instruction>
+            <instruction>For the meat sauce, put the 3 tbsp oil, 2 finely chopped celery sticks, 1 finely chopped onion, 1 finely chopped carrot, 3 crushed garlic cloves and 140g cubed pancetta in another large saucepan. Gently cook together until the veg are soft but not coloured.</instruction>
+            <instruction>Tip in 500g pork mince and 500g beef mince, 200ml milk and 2 cans of chopped tomatoes. Using a wooden spoon, stir together and break up and mash the lumps of mince against the sides of the pan.</instruction>
+            <instruction>When the mince is mostly broken down, stir in 2 bay leaves, 1 rosemary sprig, 2 thyme sprigs, 2 tsp dried oregano, 2 beef stock cubes and 500ml red wine, and bring to a simmer.</instruction>
+            <instruction>Cover and cook for 1 hr, stirring occasionally to stop the bottom catching.</instruction>
+            <instruction>Uncover and gently simmer for another 30 mins-1 hr until the meat is tender and saucy. Taste and season.</instruction>
+            <instruction>To finish the béchamel sauce, strain the milk through a fine sieve into one or two jugs.</instruction>
+            <instruction>Melt 100g butter in the same pan then, using a wooden spoon, mix in 100g plain flour and cook for 2 mins.</instruction>
+            <instruction>Stir in the strained milk, a little at a time – the mix will thicken at first to a doughy paste, but keep going, adding milk gradually to avoid lumps.</instruction>
+            <instruction>When all the milk is in, bring to a gentle simmer, stirring constantly (if you have lumps, give it a quick whisk). Gently bubble for a few mins until thickened.</instruction>
+            <instruction>Season with salt, pepper and a good grating of nutmeg.</instruction>
+            <instruction>Heat oven to 180C/160C fan/gas 4.</instruction>
+            <instruction>Spread a spoonful of the meat sauce over the base of a roughly 3.5 litre baking dish.</instruction>
+            <instruction>Cover with a single layer of dried pasta sheets, snapping them to fit if needed, then top with a quarter of the béchamel. Spoon over a third of the meat sauce and scatter over a little of the finely grated parmesan.</instruction>
+            <instruction>Repeat the layers – pasta, béchamel, meat and parmesan – two more times to use all the meat sauce. Add a final layer of pasta, the last of the béchamel and remaining parmesan.</instruction>
+            <instruction>Sit the dish on a baking tray to catch spills and bake for 1 hr until bubbling, browned and crisp on top.</instruction>
+        </method>
+        <creditType creditLink="https://www.bbcgoodfood.com/search/recipes/date/1296518400">
+            <credit>Recipe from Good Food magazine, February 2011</credit>
+        </creditType>
+    </recipe>
+    </recipes> 
